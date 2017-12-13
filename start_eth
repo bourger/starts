@@ -1,0 +1,26 @@
+ethdcrminer64 -epool europe.ethash-hub.miningpoolhub.com:20555 -ewal bourger.rig1 -epsw x                                                                                                                                                                       
+-eworker rig1                                                                                                                                                                 
+#-epool stratum+tcp://pirl.pool.sexy:6006                                                                                                                                     
+#                                                                                                                                                                             
+#-esm 0                                                                                                                                                                       
+#-ethi -16384                                                                                                                                                                 
+#-ewal 0x39104bD7C141d762F1c3828eFF6Af17E7dc14eC6                                                                                                                             
+-allcoins 1                                                                                                                                                                   
+                                                                                                                                                                              
+#-dpool stratum+tcp://dcr.coinmine.pl:2222                                                                                                                                    
+# stratum+tcp://yiimp.ccminer.org:4252                                                                                                                                        
+#-dwal DsRwzxejABwVx92ewmQULvo4VgzL9S1WA1F                                                                                                                                    
+#-dpsw x                                                                                                                                                                      
+#-dcri 100                                                                                                                                                                    
+-esm 2                                                                                                                                                                        
+-mode 1                                                                                                                                                                       
+#-dcoin dcr                                                                                                                                                                   
+-tt 88                                                                                                                                                                        
+                                                                                                                                                                              
+#-ewal 0x5d8fad7f428eb06b15918e7c608b52e5b2253e2f                                                                                                                             
+-epool europe.ethash-hub.miningpoolhub.com:20535                                                                                                                              
+                                                                                                                                                                              
+#-r 1                                                                                                                                                                         
+#-minspeed 55                                                                                                                                                                 
+#-eres 5                                                                                                                                                                      
+#-tt 0
